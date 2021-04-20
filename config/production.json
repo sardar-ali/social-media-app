@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://Sardar:Sardar123@devconnector.gnx2d.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"5b37623487ccb8094f53",
+    "githubSecret":"6e68a6b3e21e807aac8111ebbabd27983bf0c16e"
+}
